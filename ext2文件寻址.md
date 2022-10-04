@@ -38,3 +38,10 @@
 
 ![image-20221003211804243](C:\Users\xiame\AppData\Roaming\Typora\typora-user-images\image-20221003211804243.png)
 
+### `fork`
+
+![image-20221004224244116](C:\Users\xiame\AppData\Roaming\Typora\typora-user-images\image-20221004224244116.png)
+
+![image-20221004224301225](C:\Users\xiame\AppData\Roaming\Typora\typora-user-images\image-20221004224301225.png)
+
+![image-20221004224336825](C:\Users\xiame\AppData\Roaming\Typora\typora-user-images\image-20221004224336825.png)
